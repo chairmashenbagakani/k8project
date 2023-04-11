@@ -27,5 +27,35 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/newimage:latest
+          image: vinochairma/k8project:latest
           imagePullPolicy: Always
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
